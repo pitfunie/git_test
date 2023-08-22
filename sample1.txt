@@ -1,1 +1,3 @@
-This is the second sample text file
+This is the second sample text fil
+
+Modifing sample1.txt file to show revert or reset.  
