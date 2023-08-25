@@ -1,3 +1,5 @@
 this is a sample file
 
-making changes to this file 
+making changes to this file
+
+making changes to git revert 
